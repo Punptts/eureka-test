@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "c7f7543d159b78fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "07ae64579271cb60",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "th/Bitcoin.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17d7521950b4451e",
+    "type": "split",
+    "children": [
+      {
+        "id": "540a473d989823f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea3f6a45c416f0c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f9b9a212e9ee57c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da0a55611a058267",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec7d641bceacc8c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0fafa5edd67c309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "th/Bitcoin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "07ae64579271cb60",
+  "lastOpenFiles": [
+    "th/Bitcoin.md",
+    "th/Hello.md",
+    "README.md",
+    "en/Hello.md",
+    "Image/image 1.jpeg",
+    "image/hellop.jpeg",
+    "en/Thailand.md"
+  ]
+}
