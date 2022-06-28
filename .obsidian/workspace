@@ -7,10 +7,9 @@
         "id": "07ae64579271cb60",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "th/Bitcoin.md",
-            "mode": "source"
+            "file": "Attachments/hellop.jpeg"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "th/Bitcoin.md",
+                "file": "Attachments/hellop.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +87,15 @@
   },
   "active": "07ae64579271cb60",
   "lastOpenFiles": [
-    "th/Bitcoin.md",
-    "th/Hello.md",
-    "README.md",
-    "en/Hello.md",
-    "Image/image 1.jpeg",
-    "image/hellop.jpeg",
-    "en/Thailand.md"
+    "Attachments/hellop.jpeg",
+    "00-Notes/Classical cipher.md",
+    "00-Notes/en/Hello.md",
+    "00-Notes/Classical cipher-MOC.md",
+    "00-Notes/en/Thailand.md",
+    "00-Notes/Strong cryptography.md",
+    "00-Notes/Transposition cipher.md",
+    "00-Notes/Substitution ciphers.md",
+    "Untitled.md",
+    "00-Notes/th/Cryptanalysis.md"
   ]
 }
