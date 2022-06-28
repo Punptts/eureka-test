@@ -13,3 +13,5 @@ tags:: #lang/th #type/moc
 -[Strong cryptography](Strong cryptography.md)
 -[Transposition cipher](Transposition cipher.md)
 -[Substitution ciphers](Substitution ciphers.md)
+-[Substitution ciphers](Substitution%20ciphers.md)
+-[Substitution ciphers](./Substitution ciphers.md)
