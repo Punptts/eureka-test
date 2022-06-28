@@ -7,9 +7,10 @@
         "id": "07ae64579271cb60",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Attachments/hellop.jpeg"
+            "file": "00-Notes/Classical cipher.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/hellop.jpeg",
+                "file": "00-Notes/Classical cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "07ae64579271cb60",
   "lastOpenFiles": [
-    "Attachments/hellop.jpeg",
     "00-Notes/Classical cipher.md",
-    "00-Notes/en/Hello.md",
     "00-Notes/Classical cipher-MOC.md",
-    "00-Notes/en/Thailand.md",
     "00-Notes/Strong cryptography.md",
-    "00-Notes/Transposition cipher.md",
     "00-Notes/Substitution ciphers.md",
-    "Untitled.md",
-    "00-Notes/th/Cryptanalysis.md"
+    "00-Notes/Transposition cipher.md",
+    "[Strong cryptography.md",
+    "Attachments/hellop.jpeg",
+    "00-Notes/en/Hello.md",
+    "00-Notes/en/Thailand.md",
+    "Untitled.md"
   ]
 }

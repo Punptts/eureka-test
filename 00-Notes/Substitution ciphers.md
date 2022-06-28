@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[../Classical cipher-MOC]]
+uplinks:: [[Classical cipher-MOC]]
 tags:: #lang/th #type/term 
 
 # Substitution ciphers

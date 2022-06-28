@@ -9,7 +9,7 @@ tags:: #lang/th #type/moc
 
 # Classical cipher-MOC
 ### คำอธิบาย
-- [[../Classical cipher]]
-- [[../Strong cryptography]]
+- [[Classical cipher]]
+- [[[Strong cryptography]]
 - [[Transposition cipher]]
 - [[Substitution ciphers]]
