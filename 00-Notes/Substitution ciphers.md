@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Classical cipher-MOC]]
+uplinks::[Classical cipher-MOC](Classical cipher-MOC.md)
 tags:: #lang/th #type/term 
 
 # Substitution ciphers
@@ -12,7 +12,7 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
-- [[Transposition cipher]]
+-[Transposition cipher](Transposition cipher.md)
 
 ## References
 - [Wikipedia,"Substitution Ciphers,"2022.](https://en.wikipedia.org/wiki/Substitution_cipher)
